@@ -2,10 +2,10 @@ const Desc = () => {
     return (
         <div className="desc">
             <div>
-                <h1>Köpekler Hakkında</h1>
+                <h1>About Dogs</h1>
             </div>
             <div>
-                <p>Köpek dostlarımız hakkında ilginç bilgiler öğrenmek istersen aşağıdaki butonu kullanarak kutudan bir bilgi çekebilirsin.</p>
+                <p>If you want to learn interesting facts about our dog friends, you can use the button below to pull a fact from the box.</p>
             </div>
         </div>
     )
