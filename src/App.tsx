@@ -1,6 +1,6 @@
 import './App.css'
-import DataSection from './components/data_section/DataSection.tsx'
-import Desc from './components/description/Desc.tsx'
+import DataSection from './components/DataSection.tsx'
+import Desc from './components/Desc.tsx'
 
 function App() {
   return (
